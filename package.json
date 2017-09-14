@@ -1,0 +1,20 @@
+{
+  "name": "music-mashup",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "ioredis": "^3.1.4",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andreas Indal <hej@andreasind.al>",
+  "license": "MIT"
+}
